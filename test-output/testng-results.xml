@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="130" started-at="2018-06-27T17:45:10Z" finished-at="2018-06-27T17:45:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="130" started-at="2018-06-27T17:45:10Z" finished-at="2018-06-27T17:45:10Z">
+      <class name="selfLearning.gitBasics.SimpleTestClass">
+        <test-method status="PASS" signature="printFunction()[pri:0, instance:selfLearning.gitBasics.SimpleTestClass@32e6e9c3]" name="printFunction" duration-ms="64" started-at="2018-06-27T23:15:10Z" finished-at="2018-06-27T23:15:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printFunction -->
+      </class> <!-- selfLearning.gitBasics.SimpleTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
