@@ -8,5 +8,11 @@ public class SimpleTestClass {
 	public void printFunction() {
 		System.out.println("This is a simple test method");
 	}
+	
+	@Test
+	public void secondFunction() {
+		System.out.println("This is second test method");
+	}
+	
 
 }
